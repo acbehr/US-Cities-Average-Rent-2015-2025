@@ -1,1 +1,22 @@
-test second readme
+# Zillow Rent Affordability Analysis
+
+**Tools Used:** Excel, PivotTables, VLOOKUP, Charts  
+**Dataset:** Zillow Rent Index by Zip Code + Census Median Income
+
+## 📌 Goal
+Compare median rent to household income by zip code in Illinois and identify areas where rent is over 30% of income.
+
+## 🔧 Key Excel Techniques
+- Cleaned ZIP code formatting
+- Used VLOOKUP to join rent and income datasets
+- Built PivotTables to summarize affordability by region
+- Created bar and line charts to visualize trends
+
+## 💡 Insights
+- 27 zip codes have rent >35% of median income
+- West Suburban and South Side zips are most rent-burdened
+- Income growth lags rent growth in 80% of tracked zips
+
+## 📎 Files
+- `rent_affordability_dashboard.xlsx`: Final dashboard
+- `raw_data_rent_income.xlsx`: Original Zillow + Census data
