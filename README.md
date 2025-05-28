@@ -16,6 +16,8 @@ Raw data from Zillow provides average rent by month. This data is more useful or
 |Dallas, TX      |	1,146.86 |	1,203.76 |	1,263.34 |	1,311.41 |	1,361.33|
 |Houston, TX	   | 1,241.36  |	1,252.25 |	1,270.79 |	1,317.79 |	1,341.26|
 
+Zillow has added rental information for more than 400 cities since 2015, so many that now have data available lack averages from earlier years. 
+
 |   City Name       | 	  2015   |	  2016   |	  2017   |	  2018   |	 2019   |
 |-------------------|------------|-----------|-----------|-----------|----------|
 |Hickory, NC	      |   #N/A     |	#N/A	   |#N/A       |	#N/A	   |   #N/A   |
