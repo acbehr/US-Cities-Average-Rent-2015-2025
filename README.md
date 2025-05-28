@@ -26,6 +26,8 @@ Zillow has added rental information for more than 400 cities since 2015, so many
 |Rockford, IL	      |  706.70    |	730.22   |	754.31   |	781.80   |	817.80  |
 |Lincoln, NE        |	#N/A	     |  866.49   |	891.25   |	923.56   |	947.06  |
 
+This annual data allows us to search for trends or interesting insights over the decade from 2015 to 2025.
+
 ![Rent Chart](images/Chart_1.png)
 
 **Insights**
